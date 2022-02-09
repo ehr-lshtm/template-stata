@@ -1,8 +1,8 @@
-# r-template
+# stata-template
 
 ## Purpose
 
-A template to begin a project with R and RStudio. [Click here](https://github.com/ehr-lshtm/template/generate) to use this template, then replace this text with a desription of your project.
+A template to begin a project with Stata. [Click here](https://github.com/ehr-lshtm/stata-template/generate) to use this template, then replace this text with a desription of your project.
 
 ## Untracked files
 
@@ -23,14 +23,18 @@ r_template/
 │   └── document1.Rmd
 ├── paths/
 │   ├── README.md
-│   └── paths.R (untracked)
+│   └── paths.ado (untracked)
 ├── output/
 │   ├── README.md
 │   ├── cleaned_data_1.csv (untracked)
 │   └── cleaned_data_2.csv (untracked)
-├── R/
+├── do-files/
 │   ├── README.md
-│   └── functions.R
-├── r-template.Rproj
+│   ├── script1.do
+│   └── script2.do
+├── logs/
+│   ├── README.md
+│   ├── log1.log
+│   └── log2.log
 └── README.md
 ```
