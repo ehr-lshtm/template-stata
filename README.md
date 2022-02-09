@@ -23,7 +23,7 @@ r_template/
 │   └── document1.Rmd
 ├── paths/
 │   ├── README.md
-│   └── paths.ado (untracked)
+│   └── paths.do (untracked)
 ├── output/
 │   ├── README.md
 │   ├── cleaned_data_1.csv (untracked)
