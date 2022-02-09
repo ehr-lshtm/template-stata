@@ -1,8 +1,8 @@
-# stata-template
+# EHR group template for Stata
 
 ## Purpose
 
-A template to begin a project with Stata. [Click here](https://github.com/ehr-lshtm/stata-template/generate) to use this template, then replace this text with a desription of your project.
+A template to begin a project with Stata. [Click here](https://github.com/ehr-lshtm/template-stata/generate) to use this template, then replace this text with a desription of your project.
 
 ## Untracked files
 
