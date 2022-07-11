@@ -28,7 +28,7 @@ template-stata/
 │   └── document1.Rmd
 ├── paths/
 │   ├── README.md
-│   └── paths.R (untracked)
+│   └── paths.do (untracked)
 ├── results/
 │   ├── README.md
 │   └── result_1.csv
